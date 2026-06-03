@@ -1,0 +1,31 @@
+student_id,course
+1,Python
+1,Data Science
+1,Machine Learning
+2,Java
+2,Spring Boot
+2,Microservices
+3,SQL
+3,Power BI
+3,Data Analytics
+4,JavaScript
+4,React
+4,Node.js
+5,C++
+5,Algorithms
+5,System Design
+6,Python
+6,Django
+6,Web Development
+7,R
+7,Statistics
+7,Data Visualization
+8,Go
+8,Kubernetes
+8,Cloud Computing
+9,Swift
+9,iOS Development
+9,Mobile Apps
+10,Ruby
+10,Rails
+10,Web Development
