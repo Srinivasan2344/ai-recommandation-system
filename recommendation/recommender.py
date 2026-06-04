@@ -3,6 +3,7 @@ import pickle
 model = pickle.load(open("models/model.pkl", "rb"))
 encoder = pickle.load(open("models/encoder.pkl", "rb"))
 
+
 course_map = {
     "Python": ["Python", "Data Science", "Machine Learning"],
     "Java": ["Java", "Spring Boot", "Microservices"],
