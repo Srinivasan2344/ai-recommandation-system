@@ -15,7 +15,6 @@ df["target"] = [
     "Data Scientist",
     "Python Basics",
     "ML Engineer"
-
 ]
 
 target_map = {
